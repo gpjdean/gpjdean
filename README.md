@@ -13,3 +13,6 @@
 
 ![](https://metrics.lecoq.io/codeacg?template=classic&config.timezone=Asia%2FBeiJing)
 
+
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=gpjdean)](https://github.com/ryo-ma/github-profile-trophy)
