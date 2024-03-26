@@ -1,2 +1,1 @@
-# dean
-院长GitHub主页
+![](https://count.getloli.com/get/@codeacg.github.readme?theme=rule34)
