@@ -18,5 +18,11 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=gpjdean)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=codeacg=green&right_color=red)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=gpjdean=green&right_color=red)
 
+[![喵酱's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=gpjdean)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=gpjdean)](https://git.io/streak-stats)
+
+
+![](https://stats.justsong.cn/api/github?id=gpjdean)
