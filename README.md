@@ -38,8 +38,7 @@
 
 ### 我的技能
 
-#![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-#![](https://img.shields.io/badge/Golang-3776AB?style=for-the-badge&logo=golang&logoColor=white)
+
 
 
 ![image](https://github.com/gpjdean/dean/assets/38976530/1cd9f1bf-febb-4fa8-a5c2-0f9456d0005f)
@@ -56,7 +55,7 @@
 
 
 
- ### <img src="https://github-readme-stats.vercel.app/api?username=gpjdean&hide=issues&title_color=333&text_color=777" alt="HIM198's Stats" >
+
 
 
 
