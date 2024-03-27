@@ -53,16 +53,6 @@
 
 
 
-
-
-
-
-
-
-
-![Static Badge](https://img.shields.io/badge/Windows-11-E89AAA)
-![Static Badge](https://img.shields.io/badge/Go-1.22.1-0000FF)
-
 ​
 
 [![喵酱's Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=gpjdean&theme=calm&langs_count=6&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
