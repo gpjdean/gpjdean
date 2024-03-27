@@ -73,9 +73,10 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=gpjdean)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=gpjdean)](https://git.io/streak-stats)
+
 
 
 ![](https://stats.justsong.cn/api/github?id=gpjdean)
 
 ![](https://metrics.lecoq.io/codeacg?template=classic&config.timezone=Asia%2FBeiJing)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=gpjdean)](https://git.io/streak-stats)
