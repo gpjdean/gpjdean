@@ -28,7 +28,7 @@
 
 - 🔭 I’m currently working on something cool.
 - 🌱 I’m currently learning Everything I like.
-- 💬 Ask me about anything related to Java/Python.
+- 💬 Ask me about anything related to Golang/Python，Kubernetes/Tekton/ArgoCD/Istio/KubeVirt ......All technology！
 - 📫 How to reach me: deanmr@qq.com
 - 😄 Read more about my Blog: [here](https://blog.deanit.cn)
 
